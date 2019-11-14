@@ -1,0 +1,6 @@
+[influxdb]
+   2 name = InfluxDB Repository - RHEL 
+   3 baseurl = https://repos.influxdata.com/rhel/7/x86_64/stable/
+   4 enabled = 1
+   5 gpgcheck = 1
+   6 gpgkey = https://repos.influxdata.com/influxdb.key
